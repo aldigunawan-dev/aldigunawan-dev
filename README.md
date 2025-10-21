@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and mobile programming, minecraft stuff, and more?
 - 🌱 I’m currently learning Lot's of stuff
 - 💞️ I’m looking to collaborate on Minecraft Server
-- 📫 How to reach me -> https://discord.destaria.xyz
+- 📫 How to reach me -> https://discord.destaria.com
 
 <!---
 aldigunawan-dev/aldigunawan-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
