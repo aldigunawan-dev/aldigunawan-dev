@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aldi
-- 👀 I’m interested in Web and mobile programming, minecraft stuff, and more?
-- 🌱 I’m currently learning Lot's of stuff
+- 👀 I’m interested in Web, Devops, and Minecraft
+- 🌱 I’m currently learning to be Devops Engineer
 - 💞️ I’m looking to collaborate on Minecraft Server
 - 📫 How to reach me -> https://discord.destaria.com
 
